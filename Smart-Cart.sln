@@ -5,6 +5,13 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart-Cart", "Smart-Cart\Smart-Cart.csproj", "{7893C3A2-92F5-47CA-8ED5-166694E0278A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart-Cart-test", "Smart-Cart-test\Smart-Cart-test.csproj", "{AA229D87-9C62-42CC-BE02-56F290D82C29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C62613D7-3C49-4CF1-ADE4-2D6813C076FA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{7893C3A2-92F5-47CA-8ED5-166694E0278A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7893C3A2-92F5-47CA-8ED5-166694E0278A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7893C3A2-92F5-47CA-8ED5-166694E0278A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA229D87-9C62-42CC-BE02-56F290D82C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA229D87-9C62-42CC-BE02-56F290D82C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA229D87-9C62-42CC-BE02-56F290D82C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA229D87-9C62-42CC-BE02-56F290D82C29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
